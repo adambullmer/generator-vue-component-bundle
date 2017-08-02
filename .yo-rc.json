@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Adam Bullmer",
+      "authorEmail": "psycodrumfreak@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
